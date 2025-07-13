@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/gunavardhan">
+  <a href="https://github.com/gunavardhanreddyboina">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Tailwind+CSS;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
@@ -19,7 +19,7 @@
 - 🔭 I built a full-stack **Employee Management Dashboard** from scratch
 - 💬 Ask me about **React.js**, **Tailwind CSS**, **Node.js**, **MySQL**, **Redux**
 - 📫 Reach me at: **gunavardhanreddyboina@gmail.com** 
-- 📝 [Download My Resume](https://your-resume-link.com) 
+- 📝 [Download My Resume](https://your-resume-link.com) <!-- Replace this with actual resume link -->
 
 ---
 
@@ -44,16 +44,24 @@
 
 ---
 
+### 🚀 Featured Projects
 
+- 🔹 [Employee Management Dashboard](https://github.com/gunavardhanreddyboina/employee-dashboard)  
+  React.js + Tailwind + Node.js + MySQL | Register/Login, JWT, Add/Edit/Delete Employees, Theme Toggle
+
+- 🔹 [Task Manager with Redux](https://github.com/gunavardhanreddyboina/task-manager-redux)  
+  Redux Toolkit + Async Thunks + API Integration | Add, Delete, Fetch Tasks
+
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunavardhan&show_icons=true&theme=radical" alt="guna github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gunavardhanreddyboina&show_icons=true&theme=radical" alt="guna github stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunavardhan&theme=radical" alt="guna streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunavardhanreddyboina&theme=radical" alt="guna streak stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunavardhan&layout=compact&theme=radical" alt="guna top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunavardhanreddyboina&layout=compact&theme=radical" alt="guna top langs" />
 </p>
 
 ---
@@ -61,7 +69,15 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gunavardhan&theme=gruvbox&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gunavardhanreddyboina&theme=gruvbox&column=7&margin-w=10" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=gunavardhanreddyboina&theme=react-dark" alt="GitHub contribution graph" />
 </p>
 
 ---
