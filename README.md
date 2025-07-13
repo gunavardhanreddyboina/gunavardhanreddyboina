@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/gunavardhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Tailwind+CSS;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer; React.js+%7C+Node.js+%7C+Tailwind+CSS;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,8 +18,8 @@
 - 🌱 Currently learning **Redux Toolkit**, **API Integration**, and **Deployment**
 - 🔭 I built a full-stack **Employee Management Dashboard** from scratch
 - 💬 Ask me about **React.js**, **Tailwind CSS**, **Node.js**, **MySQL**, **Redux**
-- 📫 Reach me at: **gunavardhan@example.com** *(replace with your email)*
-- 📝 [Download My Resume](https://your-resume-link.com) *(add your link)*
+- 📫 Reach me at: **gunavardhanreddyboina@gmail.com** 
+- 📝 [Download My Resume](https://your-resume-link.com) 
 
 ---
 
@@ -44,15 +44,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-- 🔹 [Employee Management Dashboard](https://github.com/yourusername/employee-dashboard)  
-  Full-stack CRUD app with Register/Login, JWT auth, Light/Dark mode, etc.
-
-- 🔹 [Task Manager with Redux](https://github.com/yourusername/task-manager-redux)  
-  Built using React, Redux Toolkit, and Async Thunks for managing tasks.
-
----
 
 ### 📊 GitHub Stats
 
@@ -76,8 +68,8 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunavardhan@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reddyboina-guna-vardhan/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunavardhanreddyboina@gmail.com)
 
 ---
 
