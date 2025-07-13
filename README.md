@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/gunavardhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer; React.js+%7C+Node.js+%7C+Tailwind+CSS;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Tailwind+CSS;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
